@@ -1,4 +1,4 @@
-# Автор: Федорчук Дмитрий Сергеевич DEVOPS-33
+
 
 # Домашнее задание к занятию «Вычислительные мощности. Балансировщики нагрузки»
 
@@ -386,4 +386,3 @@ healthcheck {
 
 ![img_11](IMG/img_11.png)
 
-Весь код Terraform можно посмотреть по ссылке: https://github.com/DemoniumBlack/fedorchukds-devops-33-52/blob/main/terraform/
